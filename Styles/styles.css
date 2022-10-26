@@ -33,6 +33,11 @@ body {
   margin-bottom: 20px;
 }
 
+.job_title_jun {
+  color: #fb6d3a;
+  margin-bottom: 25px;
+}
+
 .about_name {
   font-style: normal;
   font-weight: 700;
@@ -289,6 +294,7 @@ body {
 
 .languages {
   margin-left: 40px;
+  margin-bottom: 50px;
 }
 
 .languages_list {
@@ -302,6 +308,28 @@ body {
 }
 
 .languages_text {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.hobbies {
+  margin-left: 40px;
+}
+
+.hobbies_list {
+  color: #ffffff;
+  padding: 0;
+  margin-left: 17px;
+}
+
+.hobbies_item {
+  color: #fb6d3a;
+}
+
+.hobbies_text {
   color: #ffffff;
   font-style: normal;
   font-weight: 400;
